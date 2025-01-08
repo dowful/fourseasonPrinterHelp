@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fourseasonPrinterHelp/static/css/main.e6fc64a9.css",
+    "main.js": "/fourseasonPrinterHelp/static/js/main.d7fb9161.js",
+    "static/js/488.0b400414.chunk.js": "/fourseasonPrinterHelp/static/js/488.0b400414.chunk.js",
+    "static/media/four_season_logo3.png": "/fourseasonPrinterHelp/static/media/four_season_logo3.458d20d63df86fbf72e5.png",
+    "index.html": "/fourseasonPrinterHelp/index.html",
+    "main.e6fc64a9.css.map": "/fourseasonPrinterHelp/static/css/main.e6fc64a9.css.map",
+    "main.d7fb9161.js.map": "/fourseasonPrinterHelp/static/js/main.d7fb9161.js.map",
+    "488.0b400414.chunk.js.map": "/fourseasonPrinterHelp/static/js/488.0b400414.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6fc64a9.css",
+    "static/js/main.d7fb9161.js"
+  ]
+}
